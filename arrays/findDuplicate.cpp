@@ -1,0 +1,1 @@
+convert findDupicate.cpp to enable writing
